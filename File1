@@ -1,0 +1,14 @@
+This the first file.
+
+
+#include <stdio.h>
+
+void main
+{
+int a,b;
+int c=a+b;
+
+printf("%d",c);
+
+getch();
+}
